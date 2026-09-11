@@ -1,3 +1,4 @@
 # CSC340-Static-Web-App
 Assignment #2 Static Web App
-Showcases a gallery of fictional characters from the series Bungo Stray Dogs.
+A static web application that showcases a character gallery of characters from the series Cowboy Bebop. 
+Contains an index, details, add a new character, and about page. 
